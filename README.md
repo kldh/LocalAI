@@ -126,6 +126,7 @@ WebUIs:
 - https://github.com/Jirubizu/localai-admin
 - https://github.com/go-skynet/LocalAI-frontend
 - QA-Pilot(An interactive chat project that leverages LocalAI LLMs for rapid understanding and navigation of GitHub code repository) https://github.com/reid41/QA-Pilot
+- HighlightX AI(A Browser Extension with friendly UI that support LocalAI) https://www.highlightx.ai/
 
 Model galleries
 - https://github.com/go-skynet/model-gallery
